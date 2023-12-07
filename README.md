@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently working on a remote Environmental Monitoring Platform to monitor land changes and their correspondence to C02 Emissions
-
+I'm currently working on an Augmented Reality application that can display PCB traces onto a physical PCB whilst simultaneously overlaying circuit simulation data.
 
 ## 🌐 Socials:
 [![LinkedIn]() 
