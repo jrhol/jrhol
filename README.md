@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm James</h1>
 <h3 align="center">A passionate engineering student in the UK!</h3>
 
-- 🔭 I’m currently working on [an Augmented Reality application that can display PCB traces onto a physical PCB whilst simultaneously overlaying circuit simulation data.](https://github.com/redfire1015/Artoolkit5MultiPCB)
+- 🔭 I’m currently working on an [Augmented Reality application](https://github.com/redfire1015/Artoolkit5MultiPCB) that can display PCB traces onto a physical PCB whilst simultaneously overlaying circuit simulation data.
 
 - 🌱 I’m currently learning **ARToolkit5, OpenGL, CUDA Programming**
 
