@@ -1,4 +1,14 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Website Title</title>
+    <!-- Include the LinkedIn profile badge script -->
+   <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+</head>
+<body>
+
 
 <h1 align="center">Hi 👋, I'm James</h1>
 <h3 align="center">A passionate engineering student in the UK!</h3>
