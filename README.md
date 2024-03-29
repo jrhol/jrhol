@@ -1,5 +1,3 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
 <h1 align="center">Hi 👋, I'm James</h1>
 <h3 align="center">A passionate engineering student in the UK!</h3>
 
@@ -9,6 +7,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="jrhol" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/jrhol?trk=profile-badge">James H.</a></div>
 </p>
 
