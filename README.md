@@ -5,9 +5,6 @@
 
 - 🌱 I’m currently learning **ARToolkit5, OpenGL, CUDA Programming**
 
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
 <h3 align="center">Connect with me:</h3>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="jrhol" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/jrhol?trk=profile-badge">James H.</a></div>
 
@@ -27,3 +24,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=redfire1015&show_icons=true&locale=en&theme=dark" alt="redfire1015" />
 
 </div>
+
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
