@@ -1,3 +1,5 @@
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <h1 align="center">Hi 👋, I'm James</h1>
 <h3 align="center">A passionate engineering student in the UK!</h3>
 
@@ -5,9 +7,9 @@
 
 - 🌱 I’m currently learning **ARToolkit5, OpenGL, CUDA Programming**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/james-h-976560243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/james-h-976560243/" height="30" width="40" /></a>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="jrhol" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/jrhol?trk=profile-badge">James H.</a></div>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
