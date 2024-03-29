@@ -5,8 +5,10 @@
 
 - 🌱 I’m currently learning **ARToolkit5, OpenGL, CUDA Programming**
 
-<h3 align="center">Connect with me:</h3>
+
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<h3 align="center">Connect with me:</h3>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="jrhol" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/jrhol?trk=profile-badge">James H.</a></div>
 
 
