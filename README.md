@@ -20,6 +20,9 @@
   <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=redfire1015&show_icons=true&locale=en&layout=compact&theme=dark" alt="redfire1015" />
 
+  </div>
+
+<div align="center">
   <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=redfire1015&show_icons=true&locale=en&theme=dark" alt="redfire1015" />
 
