@@ -24,6 +24,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=redfire1015&show_icons=true&locale=en&theme=dark" alt="redfire1015" />
 
 </div>
-
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
