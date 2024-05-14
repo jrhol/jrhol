@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on an [Augmented Reality application](https://github.com/redfire1015/Artoolkit5MultiPCB) that can display PCB traces onto a physical PCB whilst simultaneously overlaying circuit simulation data.
 
-- 🌱 I’m currently learning **ARToolkit5, OpenGL and CUDA **
+- 🌱 I’m currently learning **ARToolkit5, OpenGL and CUDA**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center" class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="jrhol" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/jrhol?trk=profile-badge">James H.</a></div>
