@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm James</h1>
 <h3 align="center">A passionate graduate engineer in the UK!</h3>
 
-- 🔭 I’ve just finished working on an [Augmented Reality application](https://github.com/redfire1015/Artoolkit5MultiPCB) that can display PCB traces onto a physical PCB whilst simultaneously overlaying circuit simulation data.
+- 🔭 I’ve just finished working on an [Augmented Reality application](https://github.com/jrhol/Artoolkit5MultiPCB) that can display PCB traces onto a physical PCB whilst simultaneously overlaying circuit simulation data.
 
 - 🌱 I’m currently learning **ARToolkit5, OpenGL and CUDA**
 
@@ -20,12 +20,12 @@
 <div align="center">
 
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=redfire1015&show_icons=true&locale=en&layout=compact&theme=dark" alt="redfire1015" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jrhol&show_icons=true&locale=en&layout=compact&theme=dark" alt="jrhol" />
 
   </div>
 
 <div align="center">
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=redfire1015&show_icons=true&locale=en&theme=dark" alt="redfire1015" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jrhol&show_icons=true&locale=en&theme=dark" alt="jrhol" />
 
 </div>
